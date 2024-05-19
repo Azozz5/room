@@ -1,4 +1,4 @@
- $(`<img src="https://lljawal.yemnchat.com/img/yemensy.webp" class="fr" style="cursor: pointer;
+ $(`<img src="https://lljawl.yemnchat.com/img/yemensy.webp" class="fr" style="cursor: pointer;
     text-align: center;
     padding-top: 0.1em;
     margin-top: -58px;
