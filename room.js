@@ -1,6 +1,24 @@
-$(`<img src=" " title=""  class="fr" style="width:99%;margin-top: 1px;">
+$(`<img src="htts://lljawal.yemncht.com/img/yemensy.webp" class="fr" style="cursor: pointer;
+    text-align: center;
+    padding-top: 0.1em;
+    margin-top: -58px;
+    border-radius: 15px;
+    font-weight: 700;
+    position: relative;
+    margin-bottom: 0.01rem;
+    font-family: 'jazeera',FontAwesome;
+    border: 2px solid #E9AB17 !important;
+    background: linear-gradient( -45deg , #cc31cc, #ff00ff2e, #635e63, #228eaf9e);
+    background-size: 400% 400%;
+    Color: #fff;
+    animation: fhd51 10s ease infinite;
+width: 89%;
+  min-height: 4.48rem;
+    max-height: 5.01rem;
+    HEIGHT: 114PX;">`).appendTo('#login-btn-holder ');
+$(`<a id="des3" href="https://tawk.to/chat/5fb28753c52f660e8973f5ad/1en94amir" target="_blank" style="color: #fff;font-size: 10px;background-color: #C11B17;border: 2px solid #E9AB17;border-radius: 10px 5px 5px 3px!important;width:75px;height:38px;margin:-114px 1px 3px; margin-left:1px;position: relative;" class="fl mini fa fa-phone btn btn-warning">بلاغات ومساعده</a><a id="des3" href="https://www.yemnchat.com/"  target="_blank" style="color: #000;font-size: 12px;background-color: #fff!important;border: 2px solid #E9AB17;border-radius: 5px 5px 5px 5px!important; width:75px;height:33px;margin:-74px 1px 3px;margin-left:1px;position: relative;" class="fl mini fa fa-microphone btn btn ">يمن شات</a><a id="des3" href="https://lljawal.yemnchat.com/"   target="_blank" style="color: #ffffff;font-size: 10px;background-color: #000;border: 2px solid #E9AB17;border-radius: 3px 5px 5px 10px!important;padding: 1px!important;width:75px;height:38px;margin:-39px 1px 3px;margin-left:1px;position: relative;" class="fl mini fa fa-image btn btn-info">رابط احتياطي</a>`).appendTo('#login-btn-holder ');
 
-<div style=" width: 100%; "  id=" color: #FFFFFA; border-radius
+
 .nav-tabs>li>a {
     border-radius: 15px 15px 7px 7px;
 line-height: 9px;
