@@ -1,3 +1,22 @@
+ $(`<img src="https://lljawal.yemnchat.com/img/yemensy.webp" class="fr" style="cursor: pointer;
+    text-align: center;
+    padding-top: 0.1em;
+    margin-top: -58px;
+    border-radius: 15px;
+    font-weight: 700;
+    position: relative;
+    margin-bottom: 0.01rem;
+    font-family: 'jazeera',FontAwesome;
+    border: 2px solid #E9AB17 !important;
+    background: linear-gradient( -45deg , #cc31cc, #ff00ff2e, #635e63, #228eaf9e);
+    background-size: 400% 400%;
+    Color: #fff;
+    animation: fhd51 10s ease infinite;
+width: 89%;
+  min-height: 4.48rem;
+    max-height: 5.01rem;
+    HEIGHT: 114PX;">`).appendTo('#login-btn-holder ');
+
 $(`<style>
 input#guest-form__name, #guest-form__submit {width:98%!important;margin-left:3px; top:-20px;}
 input#guest-form__name {height: 25px!important;border-radius:2px;border:1px solid #e1e0e0;margin-top:3px!important;text-align:center}
