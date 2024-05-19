@@ -108,5 +108,24 @@ margin-left: -9%;
     margin-left: 82px;
     border-radius: 150px 0  150px;
 }
+    text-align: center;
+    background-image: url(pic.png);
+}
 
+
+
+#mic .mic {
+text-align: center;
+width:56px;
+background-image:none;
+border:2px solid #afbfc2!important;
+background-color:#ffe0b2;
+    border-radius: 30% 1% !important;
+    margin: 1px !important;
+    height: 48px !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover;
+border-radius: 10% 1% !important;
+}
 </style>`).insertBefore("body")
