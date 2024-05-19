@@ -1,4 +1,27 @@
+$(`<img src=" " title=""  class="fr" style="width:99%;margin-top: 1px;">
 
+<div style=" width: 100%; "  id=" color: #FFFFFA; border-radius
+.nav-tabs>li>a {
+    border-radius: 15px 15px 7px 7px;
+line-height: 9px;
+    padding: 10px 11px!important;}
+`).insertBefore('.nav-tabs');
+$(".nav-tabs").addClass("fl").css("width","100%"),
+
+$("button.btn.btn-primary" ).css( "border-radius", "24px 24px 24px 24px" )
+
+$(".label-primary").css("border-radius","24px 24px 24px 24px")
+
+
+
+$(`<center><div id="sultan13">
+<a id="ahmed21" style="width: 100px;padding: 1px;border-radius: 0px 0px 0px 15px!important;height: 22px;" class="btn minix btn-primary" target="_blank" href="https://www.abn-y.com">شات نبض </a>
+<a id="ahmed21" style="width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank" href="">شات ارجوان</a>
+<a id="ahmed21" style="width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank" href="https://www.abn-y.com">نبض الخليج</a>
+<a id="ahmed21" style="    border-radius: 0px 0px 15px 0px!important;width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank"
+href="">نبض ارجوان</a>
+
+`).insertBefore('.nav.nav-tabs'); 
 $(`<style>
 input#guest-form__name, #guest-form__submit {width:98%!important;margin-left:3px; top:-20px;}
 input#guest-form__name {height: 25px!important;border-radius:2px;border:1px solid #e1e0e0;margin-top:3px!important;text-align:center}
