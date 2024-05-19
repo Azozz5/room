@@ -1,4 +1,4 @@
- $(`<img src="https://lljawl.yemnchat.com/img/yemensy.webp" class="fr" style="cursor: pointer;
+ $(`<img src="https://up6.cc/2024/05/171612388467431.gif" class="fr" style="cursor: pointer;
     text-align: center;
     padding-top: 0.1em;
     margin-top: -58px;
@@ -19,15 +19,15 @@ width: 89%;
 
 $(`<style>
 input#guest-form__name, #guest-form__submit {width:98%!important;margin-left:3px; top:-20px;}
-input#guest-form__name {height: 25px!important;border-radius:2px;border:1px solid #e1e0e0;margin-top:3px!important;text-align:center}
-button#guest-form__submit{border:1px solid #ccc!important;border-radius:2px!important;width:98%;height:27px;margin-left: 3px;padding:0 5px}
-div#guest, div#member,div#register{border-bottom:2px solid;margin-bottom:2px;border-top:2px solid;margin-top:2px;border-color:#bababa;border-radius:15px;height:69px}
+input#guest-form__name {height: 95px!important;border-radius:2px;border:1px solid #e1e0e0;margin-top:63px!important;text-align:center}
+button#guest-form__submit{border:1px solid #ccc!important;border-radius:2px!important;width:98%;height:27px;margin-left: 83px;padding:0 5px}
+div#guest, div#member,div#register{border-bottom:2px solid;margin-bottom:2px;border-top:82px solid;margin-top:2px;border-color:#bababa;border-radius:15px;height:69px}
 
-#login-form__name, #register-form__name{height: 23px!important;width:49%!important;padding:11px!important;float:right;margin:2px 5px 2px 0}
+#login-form__name, #register-form__name{height: 23px!important;width:1%!important;padding:11px!important;float:right;margin:2px 5px 2px 0}
 #login-form__password, #register-form__password{height: 23px!important;width:49%!important;padding:11px!important;float:right;margin:2px 0px 2px 0}
 
-#login-form__submit{margin-left: 3px;border:1px solid #ccc!important;border-radius:2px!important;height:27px!important;padding:0 5px;width:49%;}
-#register-form__submit{margin-left: 3px;border:1px solid #ccc!important;border-radius:2px!important;height:27px!important;padding:0 5px;width:99%;}  
+#login-form__submit{margin-left: 3px;border:1px solid #ccc!important;border-radius:2px!important;height:27px!important;padding:0 5px;width:1%;}
+#register-form__submit{margin-left: 3px;border:1px solid #ccc!important;border-radius:2px!important;height:27px!important;padding:0 5px;width:0%;}  
 
 
 
