@@ -1,4 +1,4 @@
- $(`<img src="https://up6.cc/2024/05/171612388467431.gif" class="fr" style="cursor: pointer;
+ $(`<img src="https://up6.cc/2024/05/171618582213071.gif" class="fr" style="cursor: pointer;
     text-align: center;
     padding-top: 0.1em;
     margin-top: -58px;
