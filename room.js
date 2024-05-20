@@ -1,4 +1,4 @@
-$('#login-btn-holder').append('<a href="https://the1ine.blogspot.com/2024/01/blog-post_31.html?m=1" class="login-btn-holder__btn btn btn-primary fhd-1">همس</a>');
+$('#login-btn-holder').append('<a href="https://www.bnatt3iz.com/" class="login-btn-holder__btn btn btn-primary fhd-1">شات تاج يرحب بكم</a>');
 
 $(`<style>
 .login-btn-holder__btn.btn.btn-primary.fhd-1 {
