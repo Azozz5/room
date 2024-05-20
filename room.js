@@ -12,7 +12,7 @@
     background-size: 400% 400%;
     Color: #fff;
     animation: fhd51 10s ease infinite;
-width: 89%;
+width: 100%;
   min-height: 4.48rem;
     max-height: 5.01rem;
     HEIGHT: 114PX;">`).appendTo('#login-btn-holder ');
