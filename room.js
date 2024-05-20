@@ -1,4 +1,3 @@
-$('#login-btn-holder').append('<a href="https://www.bnatt3iz.com/" class="login-btn-holder__btn btn btn-primary fhd-1">شات تاج يرحب بكم</a>');
 
 $(`<style>
 .login-btn-holder__btn.btn.btn-primary.fhd-1 {
