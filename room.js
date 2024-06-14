@@ -389,7 +389,7 @@ button.rsave.btn.btn-primary.fl.north {
          
    var noorthroom = false;
 setInterval(function () {
-    if (myroom == 'room.borderg.hand.nosel.fl.rhxrhv8o74n') {
+    if (myroom == '.room.borderg.hand.nosel.fl.rhxrhv8o74n') {
         if (noorthroom == false) {
             noorthroom = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('north');
