@@ -1,9 +1,3 @@
-var rid='room.borderg.hand.nosel.fl.rhxrhv8o74n';
-$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
-background-size: 220% auto;border-radius: 0 10px 0 10px!important;border: 1px solid #0000;}`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{background-image: linear-gradient(-225deg, #000 0%, #000 29%, #ffc800 67%, #000200 100%);
-background-size: 220% auto;
-animation: textclip 5s linear infinite;border-radius: 0 10px 0 10px!important;border: 1px solid #0000;}`);
 $(`<style>
 .nosel.d-flex.room.borderg.hand.nosel.fl.rhxrhv8o74n .fitimg.u-pic.borderg {
   letter-spacing: 1px;
@@ -330,6 +324,3 @@ setInterval(function () {
 
 
 
-$.getScript("https://raw.githack.com/noorromas/a7trik1/main/a7trik1.js");
-$.getScript("https://raw.githack.com/noorromas/nouraldeen/main/uzrs.js");
-$.getScript("https://raw.githack.com/noorromas/king_KSA/main/KSA.js");
