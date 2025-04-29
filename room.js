@@ -1,91 +1,68 @@
-$(`<style>.emoi{max-height:22px!important}</style>`).insertBefore("body");
-$(`<img src="https://ghnawi.com/sico/1694947617710.gif" class="tigerhost fr" style="width: 100%; height: auto;max-height: 100px;"><style>.isbnr{display:none;}</style>`).insertBefore(".nav.nav-tabs");
-$(`<center><div id="sultan13">
-<a id="ahmed21" style="width: 85px;padding: 1px;border-radius: 0px 0px 0px 15px!important;height: 22px;" class="btn minix btn-primary" target="_blank" href="">القوانين</a>
-<a id="ahmed21" style="width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank" href="">الأفتارات</a>
-<a id="ahmed21" style="width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank" href="https://ghnawi.com/">شات غناوي</a>
-<a id="ahmed21" style="    border-radius: 0px 0px 15px 0px!important;width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank"
-href="https://chat-qlbe.com/">شات قلبي </a>
-`).insertBefore('.nav.nav-tabs'); 
+var rid='qd7-om4yv3';
+$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
+background-size: 220% auto;border-radius: 0 10px 0 10px!important;border: 1px solid #0000;}`);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{background-image: linear-gradient(-225deg, #000 0%, #000 29%, #dd9dac 67%, #000200 100%);
+background-size: 220% auto;
+animation: textclip 5s linear infinite;border-radius: 0 10px 0 10px!important;border: 1px solid #0000;}`);
+
+
 $(`<style>
-ul.nav.nav-tabs.fl li a {
+.nosel.d-flex.room.rqd7-om4yv3 .fitimg.u-pic.borderg {
+  letter-spacing: 1px;
+  background-size: 108% 108%;
+  -webkit-text-fill-color: white;
+  animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
+}
+.nosel.d-flex.room.rqd7-om4yv3 .corner.fa.fa-user.label.label-primary.uc {
+  color: #1b140e;
+  border-radius: 15px 0px 15px 0px !important;
+  height: 27px;
+  margin-top: 40px !important;
+  margin-bottom: 0px !important;
+  background-color: rgba(224, 248, 8, 0.4) !important; /* وضوح أكبر للخلفية */
+  padding: 3px 8px;
+  display: inline-block;
+}
+.nosel.d-flex.room.rqd7-om4yv3.bord {border-inline: 0px solid #4c121e !important;}
+.nosel.d-flex.room.rqd7-om4yv3 .dots.mini.u-msg {
     text-align: center;
-    padding: 0px 0!important;
-    border: 0 solid #4c4b4b;
-    color:#2E576E;
-    border-radius: 25px;
-    background: #fff;
+    -webkit-text-fill-color: #b1986200;
+    background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: 15px !important;
 }
-ul.nav.nav-tabs.fl li {
-    width: 33.3%;
-    margin-left: 0;
-    border-radius: 50px;
-    margin-bottom: 5px!important;
+.nosel.d-flex.room.rqd7-om4yv3 {
+    background-image: url(https://up6.cc/2025/04/174590753428251.jpg);
+    background-size: 100% 100%;
+    border-radius: 15px 0px 15px 0px;
+    display: inline-block;
 }
-div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3 {
-    padding: 0px 0px!important;
-    border-radius: 25px!important;
-    border: 1px solid #e1e0e0;
-    text-align: center;
-    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 1px 2px rgb(107 32 49);
-    border: 1px solid white;
-    height: 27px!important;
-    border: 1px solid #dedede!important;
-    text-align: center;
-    width: 49%!important;
-    padding: 0!important;
-    float: right;
-    margin: 2px 3px 2px 0;
+.nosel.d-flex.room.rqd7-om4yv3 .fitimg.u-pic.borderg {
+  border-radius: 100px;
+  border: 2px solid #cc8321;
+  letter-spacing: 1px;
+  background-size: 108% 108%;
+  -webkit-text-fill-color: white;
+  animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
+  min-width: 62px !important;
+  width: 62px !important;
+  min-height: 60px !important;
+  max-height: 60px !important;
+  display: none;
 }
-div#l2 button {
-	    border-radius: 24px!important;
-    height: 27px;
-    padding: 0px 5px;
-    width: 98%;
-    margin-left: 4px;
-    box-shadow: inset 0 0px 0 rgb(255 255 255), 0 2px 0px rgb(252 199 209);
-    border-color: #FFFFFF!important;
-}.nav-tabs{
-	background-color: #bfbfbfa6!important;
-	border-radius: 24px!important;
-	margin-top: 2px!important;
-	float: right;
-	padding: 3px 1px;
-	border-top: 3px solid;
-	border-color: #2E576E;
-	height: 30px!important;
-	}
-.label.bg.d-flex.fl{
-	display:none
+.nosel.d-flex.room.rqd7-om4yv3 .u-topic.dots {
+  text-transform: uppercase;
+  color: rgba(232, 166, 77, 0.2) !important; /* لون نص مع شفافية */
+  font-size: 22px !important;
+  background: none !important; /* إلغاء الخلفية المتحركة */
+  -webkit-background-clip: initial !important; /* إلغاء تأثير القص */
+  -webkit-text-fill-color: unset !important; /* إلغاء تعبئة النص */
+  animation: none !important; /* إلغاء الحركة */
+  display: inline-block;
+  margin-top: 10px;
 }
-#u1 {
-	padding: 0px 0px!important;
-	margin-left: -6px;
-	border-radius: 25px!important;
-	border: 1px solid #e1e0e0;
-	text-align: center;
-	box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 1px 2px rgb(107 32 49);
-	border: 1px solid white;
-	height: 27px!important;
-	width: 100%!important;
-	margin-top: 1px!important;
-}
-div#l1 input#u1, div#l3 button,div#l1 button {
-    border-radius: 24px!important;
-    height: 27px;
-    padding: 0px 5px;
-    width: 98%;
-    margin-left: 4px;
-    box-shadow: inset 0 0px 0 rgb(255 255 255), 0 2px 0px rgb(252 199 209);
-    border-color: #FFFFFF!important;
-}
-#tlogins .fa.fa-eye {
-    position: relative;
-    margin: -30px 17px 2px 0px!important;
-    color: #fff!important;
-}</style>`).insertBefore("body")
+@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
-
-$(`<div><marquee direction="right" width="100%" class="bg" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="4" style="text-align: center;height: 23px;color: #ffffff;font-family: jazeera,FontAwesome;margin-right: -1px;margin-top: 5px;border-radius: 30px;width: 100%;padding: 1px;"> اللهم إنّا نستودعك القدس والمسجد الأقصى وغزة أهلها، جنودها، شبابها، نساءها، أطفالها اللهم احفظ إخواننا في فلسطين بحفظك وأيدهم بنصرك يارب العالمين ..  
- <font color="#357524" class="des2">    </font>  <font class="des2" color="#800000">  </font>  <font class="des2" color="#223366">  </font> <font class="des2" color="#ff00ff">   </font>   <font class="des2" color="#5CAD9A">  </font><font class="des2" color="#800000"> </font> </marquee></div>`).insertBefore('div#tlogins #sultan13');
 
